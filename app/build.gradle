@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.muteit"
-        minSdkVersion 8
+        minSdkVersion 14
         targetSdkVersion 19
     }
 
@@ -21,4 +21,5 @@ android {
 dependencies {
     compile 'com.android.support:support-v4:19.1.0'
     compile 'com.android.support:appcompat-v7:19.1.0'
+    compile 'org.lucasr.twowayview:twowayview:0.1.4'
 }

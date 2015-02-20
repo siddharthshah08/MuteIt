@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zeel/AndroidStudioProjects/MuteIt/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/zeel/AndroidStudioProjects/MuteIt/app/build/intermediates/pre-dexed/debug/classes-4b4cd820716d2f3c1ac54953c4af771a5cfac510.jar" />
+    </item>
+    <item
+        jar="/Users/zeel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/zeel/AndroidStudioProjects/MuteIt/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1f117039098dbb790582947de1a954b573e82871.jar" />
+    </item>
+    <item
+        jar="/Users/zeel/AndroidStudioProjects/MuteIt/app/build/intermediates/exploded-aar/org.lucasr.twowayview/twowayview/0.1.4/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a2a997b75e4c94dac7051557be6b95a06566291">
+        <dex dex="/Users/zeel/AndroidStudioProjects/MuteIt/app/build/intermediates/pre-dexed/debug/classes-2b4cbef429a50381076205829feff8c2bbc9c074.jar" />
+    </item>
+
+</items>
