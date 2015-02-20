@@ -1,7 +1,6 @@
 package com.example.muteit;
 
 import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -11,7 +10,6 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TimePicker;
-import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
@@ -22,9 +20,9 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
+		setContentView(R.layout.dialog_setup_event);
 		pref = getSharedPreferences("MuteItPref", MODE_PRIVATE);
-		btnButton = (Button) findViewById(R.id.button1);
+//		btnButton = (Button) findViewById(R.id.button1);
 
 		timeFrom = (TimePicker) findViewById(R.id.timePicker1);
 		timeTo = (TimePicker) findViewById(R.id.timePicker2);
